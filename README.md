@@ -4,7 +4,7 @@ Arc Boost that shows up your cards investments profits in your profile gallery.
 
 ## How to set up
 
-Open your Arc Browser
+Open up your Arc Browser
 
 ### Create new boost
 
